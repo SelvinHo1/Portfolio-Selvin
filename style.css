@@ -48,6 +48,7 @@ body{
 
 .text{
     padding-top: 50px;
+    display: inline;   
 }
 
 .col-2 img{
@@ -58,9 +59,9 @@ body{
 
 .col-2 p{
     margin: 5px 0 5px;
-    margin-left: 70px;
+    margin-left: 50px;
     width: 50%;
-    transform: translateX(35%);
+    transform: translateX(20%);
 }
 
 .col-2 p:nth-child(1){
@@ -72,13 +73,13 @@ body{
 .col-2 p:nth-child(2){
     font-family: 'Poppins', sans-serif;
     font-weight: bold;
-    font-size: 60px;
+    font-size: 30px;
 }
 
 .col-2 p:nth-child(3){
     font-family: 'Poppins', sans-serif;
     font-weight: bold;
-    font-size: 27px;
+    font-size: 20px;
 }
 
 .col-2 p span{
@@ -102,7 +103,7 @@ body{
     padding-top: 10px;
     margin-bottom: 5px;
     text-align: center;
-    font-size: 35px;
+    font-size: 25px;
 }
 
 .about-me p{
@@ -130,25 +131,26 @@ body{
     margin: 5px;
     border: 1px solid #ccc;
     float: left;
-    width: 270px;
+    width: 210px;
 }
 
 .skill{
-    width: 80%;
+    width: 70%;
     height: auto;
     border-radius: 10px;
     background-color: #D4d5cd;
     text-align: justify;
     box-shadow: 2px 2px 12px rgba(0, 0, 0, 0.2);
     margin: 70px auto auto;
-    align-items: center;    
+    align-items: center;
+    padding-bottom: 15px;    
 }
 
 .skill h1{
     padding-top: 10px;
     margin-bottom: 5px;
     text-align: center;
-    font-size: 35px;
+    font-size: 25px;
 }
 
 .col-5 img{
@@ -169,7 +171,7 @@ body{
     padding-top: 10px;
     margin-bottom: 5px;
     text-align: center;
-    font-size: 35px;
+    font-size: 25px;
 }
 
 .footer hr{
@@ -186,7 +188,7 @@ body{
 
 .sosmed i{
     margin-right: 7px;
-    margin-left: 130px;
+    margin-left: 60px;
     font-size: 25px ;
 }
 
