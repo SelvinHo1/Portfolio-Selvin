@@ -29,6 +29,24 @@ body{
     color: grey;
 }
 
+.button-2{
+    padding-top: 10px;
+    margin-left: 98px;
+}
+
+.button-2 button{
+    display: inline-block;
+    margin-left: 15px;
+    border-radius: 8px;
+    border: 2px solid #ccc;
+    padding: 10px 10px;
+}
+
+.button-2 button:hover{
+    background-color: #ff523b;
+    color: white;
+}
+
 .container {
     display: flex;
     margin: auto;
